@@ -4,7 +4,7 @@
 
 MemoMate is a **local AI-powered personal memory assistant** built for a real friend who wanted a simple way to keep track of things they say, think about, and need to remember.
 
-Instead of manually organizing everything into separate notes, to-do lists, and contacts, MemoMate lets the user **talk naturally**. It extracts useful information, stores it as structured memories, and lets the user ask questions about those memories later.
+Instead of manually organizing everything into separate notes, to-do lists and contacts, MemoMate lets the user **tell naturally**. It extracts useful information, stores it as structured memories, and lets the user ask questions about those memories later.
 
 <p align="center">
 
@@ -181,7 +181,6 @@ Memories can contain:
 - relationships
 - project information
 - tasks
-- private conversations
 - ideas
 
 For this type of application, sending every memory to a remote AI service is not always desirable.
@@ -425,19 +424,19 @@ MemoMate/
 
 ## 📸 Screenshots
 
-> Screenshots will be added here.
+## 📸 Screenshots
 
 ### MemoMate Dashboard
 
-<!-- Add screenshot here -->
+![MemoMate Dashboard](screenshots/dashboard.png)
 
-### Memory Extraction
+### Stored Memories
 
-<!-- Add screenshot here -->
+![Stored Memories](screenshots/memories.png)
 
-### Asking MemoMate
+### AI Memory Retrieval
 
-<!-- Add screenshot here -->
+![AI Memory Retrieval](screenshots/ai_answer.png)
 
 ---
 
